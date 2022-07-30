@@ -1,3 +1,3 @@
 # Note-Taker
 
-https://dashboard.heroku.com/apps/itsyourpalsal-note-taker
+https://itsyourpalsal-note-taker.herokuapp.com/
